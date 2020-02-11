@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ca.movielistdata.controllers.MovieListDataTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-02-09T07:32:54" hostname="DESKTOP-SACGQ2I" time="1.996">
+  <properties/>
+  <testcase name="scanSingleItem()" classname="ca.movielistdata.controllers.MovieListDataTest" time="1.996"/>
+  <system-out><![CDATA[ca.movielistdata.model.Movie@54f01918
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
